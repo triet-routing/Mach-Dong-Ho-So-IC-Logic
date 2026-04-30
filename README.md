@@ -22,6 +22,8 @@ Dự án tập trung vào việc thiết kế và thi công mạch đồng hồ 
 * **Hiển thị:** LED 7 đoạn Anode chung.
 * **Công cụ thiết kế:** Proteus, Altium Designer.
 
+
+
 ## Cấu trúc Thư mục
 ├── schematic/         # Bản vẽ sơ đồ nguyên lý (Proteus/PDF)
 ├── pcb_layout/        # Bản vẽ mạch in PCB
